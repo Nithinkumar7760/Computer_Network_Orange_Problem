@@ -1,4 +1,4 @@
-# 🗺️ SDN-Based Path Tracing Tool
+#  SDN-Based Path Tracing Tool
 
 **Student:** Nithin  
 **SRN:** PES1UG25CS829  
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 What is this project?
+##  What is this project?
 
 This is an **SDN-Based Path Tracing Tool** built using POX Controller and Mininet.
 
@@ -16,7 +16,7 @@ When a packet travels from one computer to another in a network, it passes throu
 
 ---
 
-## 🧠 How does it work?
+##  How does it work?
 
 1. **Mininet** creates a virtual network with switches and hosts inside your laptop
 2. **POX Controller** acts as the brain — one central boss controlling all switches
@@ -27,7 +27,7 @@ When a packet travels from one computer to another in a network, it passes throu
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 | Tool | Version | Purpose |
 |------|---------|---------|
@@ -38,7 +38,7 @@ When a packet travels from one computer to another in a network, it passes throu
 
 ---
 
-## 🌐 Network Topology
+##  Network Topology
 
 ```
 h1 --- Switch1 --- Switch2 --- Switch3 --- h3
@@ -50,7 +50,7 @@ Linear topology with **3 switches** and **3 hosts**
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Step 1 — Clone this repo
 ```bash
@@ -90,7 +90,7 @@ INFO: path_tracer: Route: Switch 1 --> Switch 2 --> Switch 3
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Mininet — h1 ping h3 running successfully
 ![Mininet Output](screenshots/mininet.png)
@@ -100,7 +100,7 @@ INFO: path_tracer: Route: Switch 1 --> Switch 2 --> Switch 3
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ├── README.md              ← You are here!!
@@ -112,7 +112,7 @@ INFO: path_tracer: Route: Switch 1 --> Switch 2 --> Switch 3
 
 ---
 
-## 💡 Key Concepts
+##  Key Concepts
 
 **SDN (Software Defined Networking)** — One central controller controls all switches. Switches don't make their own decisions.
 
@@ -124,4 +124,4 @@ INFO: path_tracer: Route: Switch 1 --> Switch 2 --> Switch 3
 
 ---
 
-*Built with 🔥 by Nithin | PES1UG25CS829 | PES University*
+*Built with by Nithin | PES1UG25CS829 | PES University*
